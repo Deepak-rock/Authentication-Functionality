@@ -1,1 +1,12 @@
 /* Write your CSS code here */
+.header-list {
+    font-family: 'Roboto';
+}
+.header-item {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.header-link {
+    margin: 0 10px 0 0;
+}
